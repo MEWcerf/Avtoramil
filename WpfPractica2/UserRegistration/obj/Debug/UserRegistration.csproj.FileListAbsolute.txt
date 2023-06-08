@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\bin\Debug\UserRegistration.dll
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\bin\Debug\UserRegistration.pdb
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\obj\Debug\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\user\Desktop\Практика Послед\WpfPractica2-2\WpfPractica2-2\WpfPractica2\WpfPractica2\UserRegistration\obj\Debug\UserRegistration.pdb

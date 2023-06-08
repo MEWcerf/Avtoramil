@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="e31e888ac14c4d678faa90cc9c0d7561" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="AvtoservisModel.Client" Width="1.5" PointX="0.75" PointY="7" />
+        <EntityTypeShape EntityType="AvtoservisModel.ClientService" Width="1.5" PointX="3" PointY="9.125" />
+        <EntityTypeShape EntityType="AvtoservisModel.DocumentByService" Width="1.5" PointX="5.25" PointY="9.625" />
+        <EntityTypeShape EntityType="AvtoservisModel.Gender" Width="1.5" PointX="1.5" PointY="13" />
+        <EntityTypeShape EntityType="AvtoservisModel.Manufacturer" Width="1.5" PointX="0.75" PointY="2.625" />
+        <EntityTypeShape EntityType="AvtoservisModel.Product" Width="1.5" PointX="3" PointY="1.875" />
+        <EntityTypeShape EntityType="AvtoservisModel.ProductPhoto" Width="1.5" PointX="5.25" PointY="5.75" />
+        <EntityTypeShape EntityType="AvtoservisModel.ProductSale" Width="1.5" PointX="5.25" PointY="2.375" />
+        <EntityTypeShape EntityType="AvtoservisModel.Role" Width="1.5" PointX="7.75" PointY="1" />
+        <EntityTypeShape EntityType="AvtoservisModel.Service" Width="1.5" PointX="0.75" PointY="16.25" />
+        <EntityTypeShape EntityType="AvtoservisModel.ServicePhoto" Width="1.5" PointX="3" PointY="18.75" />
+        <EntityTypeShape EntityType="AvtoservisModel.sysdiagram" Width="1.5" PointX="7.75" PointY="3.75" />
+        <EntityTypeShape EntityType="AvtoservisModel.Tag" Width="1.5" PointX="3" PointY="15.875" />
+        <EntityTypeShape EntityType="AvtoservisModel.User" Width="1.5" PointX="10" PointY="0.875" />
+        <AssociationConnector Association="AvtoservisModel.FK_Client_Gender" />
+        <AssociationConnector Association="AvtoservisModel.FK_ClientService_Client" />
+        <AssociationConnector Association="AvtoservisModel.FK_ClientService_Service" />
+        <AssociationConnector Association="AvtoservisModel.FK_DocumentByService_ClientService" />
+        <AssociationConnector Association="AvtoservisModel.FK_ProductSale_ClientService" />
+        <AssociationConnector Association="AvtoservisModel.FK_Product_Manufacturer" />
+        <AssociationConnector Association="AvtoservisModel.FK_ProductPhoto_Product" />
+        <AssociationConnector Association="AvtoservisModel.FK_ProductSale_Product" />
+        <AssociationConnector Association="AvtoservisModel.FK_User_Role" />
+        <AssociationConnector Association="AvtoservisModel.FK_ServicePhoto_Service" />
+        <AssociationConnector Association="AvtoservisModel.AttachedProduct" />
+        <AssociationConnector Association="AvtoservisModel.TagOfClient" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,203 @@
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csprojAssemblyReference.cache
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+O:\3ИС\Баширов\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csprojAssemblyReference.cache
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\user\Downloads\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Downloads\Wpf practica again\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\user\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.AssemblyReference.cache
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\Evgeniy\Desktop\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\user\Desktop\WpfPractica2-2\WpfPractica2\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe.config
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.exe
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\WpfPractica2.pdb
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.dll
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.xml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.AssemblyReference.cache
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\App.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_Content.g.cs
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.cache
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2_MarkupCompile.lref
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\App.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Dictionary1.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\MainWindow.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\AddEditServicePage.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\LoginPage.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\Pages\ServicesPage.baml
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.g.resources
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.Properties.Resources.resources
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.GenerateResource.cache
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CoreCompileInputs.cache
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.csproj.CopyComplete
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.exe
+C:\Users\Ramil\OneDrive\Рабочий стол\WpfPractica2\WpfPractica2\obj\Debug\WpfPractica2.pdb

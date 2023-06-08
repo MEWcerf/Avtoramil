@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46748e03-4a18-4d57-b145-27e75ae9e6be": {
+      "ProjectGuid": "46748e03-4a18-4d57-b145-27e75ae9e6be",
+      "DisplayName": "UnitTest",
+      "ColorIndex": 0
+    },
+    "2b16a5c1-3a15-452d-aa56-5d80d4c9aa65": {
+      "ProjectGuid": "2b16a5c1-3a15-452d-aa56-5d80d4c9aa65",
+      "DisplayName": "WpfPractica2",
+      "ColorIndex": 1
+    },
+    "90737eeb-94e3-450f-bf7d-9a20d6cfc1d8": {
+      "ProjectGuid": "90737eeb-94e3-450f-bf7d-9a20d6cfc1d8",
+      "DisplayName": "UserRegistration",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
